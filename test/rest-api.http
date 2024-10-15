@@ -1,0 +1,26 @@
+POST http://localhost:3000/evaluate
+Content-Type: application/json
+
+{
+  "expression": "(1+2)-3"
+}
+
+###
+POST http://localhost:3000/evaluate
+Content-Type: application/json
+
+{
+  "expression": "+(+5+4)+(+5+3)"
+}
+
+###
+POST http://localhost:3000/evaluate
+Content-Type: application/json
+
+{
+  "expression": "test"
+}
+
+
+
+
