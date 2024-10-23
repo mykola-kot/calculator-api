@@ -1,6 +1,6 @@
 # Parallel Calculator
 
-This repository contains the solution for the test assignment.
+This repository contains the solution for the test assignment. The time limit is up to 8 hours.
 
 ## Description
 
